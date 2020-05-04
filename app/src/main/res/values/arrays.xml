@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="schools">
+    <item>Republic Polytechnic</item>
+    <item>Singapore Polytechnic</item>
+    <item>Nanyang Polytechnic</item>
+    <item>Ngee Ann Polytechnic</item>
+    <item>Temasek Polytechnic</item>
+</string-array>
+
+<string name="schools">Choose your school</string>
+</resources>
